@@ -42,3 +42,15 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 ## Contato
 
 Para qualquer dúvida ou feedback, entre em contato conosco em guilherme@nocerainformatica.com.br
+
+## Sobre mim
+Olá, Sou Guilherme Nocera. Eu sou um pesquisador de segurança e Red Teamer, faço engajamentos de segurança ofensiva em [Nocera Infosec](https://www.nocerainformatica.com.br/). Gosto de fazer Scripts no meu tempo livre para ajudar a comunidade, Espero que você goste deste projeto!
+
+Por fim, se você usar este projeto para fins ilegais, não serei responsável por tal ato!
+
+## Contribuir
+Em primeiro lugar, um grande obrigado 🙏🏻 ! Eu ficaria mais do que feliz por [PRs](https://help.github.com/articles/about-pull-requests/) or [sponsors](https://www.nocerainformatica.com.br).
+
+<a href="https://www.buymeacoffee.com/guiinoceraE" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Me page um café" style="height: auto !important;width: auto !important;" ></a>
+
+_P.S. Para qualquer dúvida ou preocupação, você pode entrar em contato comigo em  [Nocera Infosec](https://nocerainformatica.com.br). Farei o possível para ajudar 🙏._
