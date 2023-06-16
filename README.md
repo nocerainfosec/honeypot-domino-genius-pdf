@@ -49,7 +49,7 @@ Olá, Sou Guilherme Nocera. Eu sou um pesquisador de segurança e Red Teamer, fa
 Por fim, se você usar este projeto para fins ilegais, não serei responsável por tal ato!
 
 ## Contribuir
-Em primeiro lugar, um grande obrigado 🙏🏻 ! Eu ficaria mais do que feliz por [PRs](https://help.github.com/articles/about-pull-requests/) or [sponsors](https://www.nocerainformatica.com.br).
+Em primeiro lugar, um grande obrigado 🙏🏻 ! Contribir para o projeto é fácil: [PRs](https://help.github.com/articles/about-pull-requests/) (https://www.nocerainformatica.com.br).
 
 <a href="https://www.buymeacoffee.com/guiinoceraE" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Me page um café" style="height: auto !important;width: auto !important;" ></a>
 
