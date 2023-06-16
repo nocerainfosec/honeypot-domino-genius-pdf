@@ -1,0 +1,4 @@
+Flask==2.0.1
+fpdf==1.7.2
+python-geoip-geolite2==2021.4.8
+user-agents==2.3.0
