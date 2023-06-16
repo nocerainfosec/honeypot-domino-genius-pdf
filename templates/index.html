@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Dominó Genius PDF</title>
+    
+    <meta name="description" content="Imprima suas próprias peças com o Dominó Genius PDF. Divirta-se com este jogo clássico e crie peças personalizadas.">
+    
+    <!-- Metatags para SEO -->
+    <meta name="author" content="Guilherme Nocera">
+    <meta name="keywords" content="Dominó, Peças de dominó, Gerador de  dominó, Impressão de dominó, Jogo de tabuleiro, Diversão em família, Passatempo, Criador de peças de dominó, Design de dominó, Quebra-cabeça de dominó, Entretenimento, Brincadeira educativa, Jogos de mesa, Arte em dominó">
+    
+    <!-- Metatags para compartilhamento em redes sociais -->
+    <meta property="og:title" content="Dominó Genius PDF">
+    <meta property="og:description" content="Imprima suas próprias peças com o Dominó Genius PDF. Divirta-se com este jogo clássico e crie peças personalizadas.">
+    <meta property="og:url" content="https://dominoimpresso.com">
+    <meta property="og:site_name" content="Dominó Genius PDF" />
+    
+    <!-- Ícone do aplicativo -->
+    <link rel="icon" type="image/x-icon" href="{{ url_for('static', filename='favicon.ico') }}">
+
+
+
+
+    <title>Dominó Genius PDF</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #222222;
+            color: #FFFFFF;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            text-align: center;
+        }
+        
+        h1 {
+            font-size: 28px;
+            margin-bottom: 30px;
+        }
+        
+        form {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        
+        label {
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+        
+        input[type="text"] {
+            width: 300px;
+            padding: 10px;
+            font-size: 16px;
+        }
+        
+        input[type="submit"] {
+            background-color: #4caf50;
+            color: white;
+            padding: 12px 24px;
+            font-size: 18px;
+            border: none;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    
+    <form method="POST" action="/">
+        <h2>Criação de Peças de Dominó</h2>
+        <label for="palavras">Insira as palavras, separadas por vírgula:</label>
+        <input type="text" id="palavras" name="palavras" required>
+        <br>
+        <input type="submit" value="Gerar Peças">
+    </form>
+</body>
+</html>
+
