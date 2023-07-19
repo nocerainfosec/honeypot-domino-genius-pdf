@@ -44,7 +44,7 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 
 ## Sobre mim
-Olá, Sou Guilherme Nocera. Eu sou um pesquisador de segurança e Red Teamer, faço engajamentos de segurança ofensiva em [Nocera Infosec](https://www.nocerainformatica.com.br/). Gosto de fazer Scripts no meu tempo livre para ajudar a comunidade, Espero que você goste deste projeto!
+Olá, Sou Guilherme Nocera. Eu sou um pesquisador de segurança e Red Teamer, faço engajamentos de segurança ofensiva em [Nocera Infosec](https://www.nocerainfosec.com.br/). Gosto de fazer Scripts no meu tempo livre para ajudar a comunidade, Espero que você goste deste projeto!
 
 Por fim, se você usar este projeto para fins ilegais, não serei responsável por tal ato!
 
