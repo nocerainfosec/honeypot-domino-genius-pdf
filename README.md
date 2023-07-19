@@ -49,6 +49,6 @@ Olá, Sou Guilherme Nocera. Eu sou um pesquisador de segurança e Red Teamer, fa
 Por fim, se você usar este projeto para fins ilegais, não serei responsável por tal ato!
 
 ## Contribuir
-Em primeiro lugar, um grande obrigado 🙏🏻 ! Contribir para o projeto é fácil: [PRs](https://help.github.com/articles/about-pull-requests/) (https://www.nocerainformatica.com.br).
+Em primeiro lugar, um grande obrigado 🙏🏻 ! Contribir para o projeto é fácil: [PRs](https://help.github.com/articles/about-pull-requests/) (https://www.nocerainfosec.com.br).
 
 _P.S. Para qualquer dúvida ou preocupação, você pode entrar em contato comigo em  [Nocera Infosec](https://nocerainformatica.com.br). Farei o possível para ajudar 🙏._
